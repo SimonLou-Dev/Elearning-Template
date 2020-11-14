@@ -1,0 +1,1 @@
+"Contenu test pour le tutoriel Git"  git add CommitTest.txt git commit -m "CommitTest.txt ajout‚ au d‚p“t"
